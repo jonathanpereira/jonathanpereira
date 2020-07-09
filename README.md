@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as an independent Software Developer
+- 🌱 I’m currently learning Python, Node.js, React, Vue and modern CSS
+- 👯 I’m looking to collaborate on fun projects
+- 📫 How to reach me: jp@jonathanpereira.com
+- ⚡ Fun fact: Brazilian 🇧🇷 living in France 🇫🇷 working for a American 🇺🇸 clients
+
 <!--
 **jonathanpereira/jonathanpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
