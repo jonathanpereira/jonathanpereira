@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, Node.js, React, Vue and modern CSS
 - 👯 I’m looking to collaborate on fun projects
 - 📫 How to reach me: jp@jonathanpereira.com
-- ⚡ Fun fact: 🇧🇷 Brazilian living in 🇫🇷 France working for 🇺🇸 US clients
+- 🇧🇷 Brazilian living in Germany
 - 🌳 Leisure: Hiking, Swimming, Inline Skating, Music, Aviation... 
 
 <!--
