@@ -1,11 +1,9 @@
-### Hey you 🤙🏾
+### Hey you ✌🏾
 
-- 🔭 I’m currently working as an independent Software Developer
-- 🌱 I’m currently learning Python, Node.js, React, Vue and modern CSS
-- 👯 I’m looking to collaborate on fun projects
+- ⛵ I’m currently working as a Full Stack Developer at [Zizoo Boats](zizoo.com)
+- 🇧🇷 Brazilian (minêro) living in Berlin 🇩🇪
+- 🌳 Leisure: Biking, Swimming, Inline Skating, Music, Aviation... 
 - 📫 How to reach me: jp@jonathanpereira.com
-- 🇧🇷 Brazilian living in Germany
-- 🌳 Leisure: Hiking, Swimming, Inline Skating, Music, Aviation... 
 
 <!--
 **jonathanpereira/jonathanpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
