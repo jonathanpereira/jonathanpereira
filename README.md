@@ -1,8 +1,8 @@
 ### Hey you ✌🏾
 
-- ⛵ I’m currently working as a Full Stack Developer at [Zizoo Boats](https://zizoo.com)
+- ⛵ I’m currently working as a Full Stack Developer at [Borrow a Boat](https://zizoo.com)
 - 🇧🇷 Brazilian (minêro) living in Berlin 🇩🇪
-- 🌳 Leisure: Biking, Swimming, Inline Skating, Music, Aviation... 
+- 🌳 Leisure: Biking, Swimming, Music, Aviation... 
 - 📫 How to reach me: jp@jonathanpereira.com
 
 <!--
